@@ -39,7 +39,8 @@ Southwest Flight Auto Check-in
 https://github.com/pyro2927/SouthwestCheckin
 (has own folder)
 
-xbox one controller wireless driver (still not working for me)
+xbox one controller wireless driver
 https://github.com/medusalix/xow
+Don't forget to hit the "pair" button on the top side of the xbox controller, not just the stupid xbox button on the front.
 (has own folder)
 
