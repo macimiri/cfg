@@ -16,7 +16,7 @@ Commonly used programs:
 4. speedcrunch (add to system settings > shortcuts, ctrl+shift+z)
 5. nvim
 6. qbit
-7. peppermint (has own folder)
+7. peppermint
 8. unified remote
 
 gnome tweaks:
@@ -31,4 +31,15 @@ microsoft fonts: sudo apt search ttf-mscorefonts-installer
 
 exfat protoshare access:
 https://itsfoss.com/mount-exfat/
+
+logitech mx master mouse driver (enables middle click)
+(has own folder)
+
+Southwest Flight Auto Check-in
+https://github.com/pyro2927/SouthwestCheckin
+(has own folder)
+
+xbox one controller wireless driver (still not working for me)
+https://github.com/medusalix/xow
+(has own folder)
 
