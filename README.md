@@ -44,3 +44,10 @@ https://github.com/medusalix/xow
 Don't forget to hit the "pair" button on the top side of the xbox controller, not just the stupid xbox button on the front.
 (has own folder)
 
+Set default audio device on reboot:
+https://askubuntu.com/questions/1038490/how-do-you-set-a-default-audio-output-device-in-ubuntu-18-04
+use pactl list short sinks #this shows audio sources
+in /etc/pulse/default.pa, change the last lines to:
+set-default-sink alsa_output.pci-0000_00_1b.0.analog-stereo
+#set-default-source input
+and then comment out the load-module module-switch-on-connect line.
