@@ -51,3 +51,11 @@ in /etc/pulse/default.pa, change the last lines to:
 set-default-sink alsa_output.pci-0000_00_1b.0.analog-stereo
 #set-default-source input
 and then comment out the load-module module-switch-on-connect line.
+
+Gnome themes:
+I like cursors Bibata (https://www.gnome-look.org/p/1197198/) and capitaine.
+Theme Prof-gnome (https://www.gnome-look.org/p/1334194/)
+Download from gnome-look, run 
+sudo mv Bibatasdfdsf /usr/share/icons
+move theme to /usr/share/themes
+then in Gnome Tweaks > Appearance, choose cursors/themes.
