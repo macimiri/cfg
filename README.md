@@ -28,6 +28,7 @@ firefox extension for extensions.gnome.org
 * clock override (%Y.%m.%d | %H:%M)
 
 ## cascadia code font
+https://github.com/microsoft/cascadia-code
 other microsoft fonts: sudo apt search ttf-mscorefonts-installer
 
 ## exfat protoshare access:
