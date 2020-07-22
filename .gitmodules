@@ -1,0 +1,4 @@
+[submodule "SouthwestCheckin"]
+	url = https://github.com/pyro2927/SouthwestCheckin.git
+[submodule "xow"]
+	url = https://github.com/medusalix/xow.git
