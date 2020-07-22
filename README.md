@@ -37,6 +37,11 @@ https://itsfoss.com/mount-exfat/
 ### logitech mx master mouse driver (enables middle click)
 (has own folder)
 
+### bash settings
+change alias for ls:  
+alias ll='ls -lFh'
+alias la='ls -AlFh'
+
 ### Southwest Flight Auto Check-in
 https://github.com/pyro2927/SouthwestCheckin  
 (has own folder)
