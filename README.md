@@ -37,10 +37,17 @@ https://itsfoss.com/mount-exfat/
 ### logitech mx master mouse driver (enables middle click)
 (has own folder)
 
-### bash settings
+### bash alias settings
 change alias for ls:  
 alias ll='ls -lFh'
 alias la='ls -AlFh'
+
+### git alias settings
+git config --global alias.co checkout  
+git config --global alias.br branch  
+git config --global alias.ci commit  
+git config --global alias.st status  
+git config --global alias.lg "log --all --decorate --oneline --graph"  
 
 ### Southwest Flight Auto Check-in
 https://github.com/pyro2927/SouthwestCheckin  
