@@ -19,6 +19,7 @@ Then I needed to add those 2 commands to the startup programs list. For some rea
 * qbit
 * peppermint
 * unified remote
+* teamviewer
 
 ### gnome tweaks:
 firefox extension for extensions.gnome.org
