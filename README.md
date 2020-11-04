@@ -66,6 +66,9 @@ in /etc/pulse/default.pa, change the last lines to:
 set-default-sink alsa_output.pci-0000_00_1b.0.analog-stereo  
 \#set-default-source input  
 and then comment out the load-module module-switch-on-connect line.  
+# if no audio after update, do this:
+pulseaudio -k && sudo alsa force-reload
+(from https://askubuntu.com/questions/1237372/no-sound-after-update-to-20-04)
 
 ### Gnome themes:
 I like cursors Bibata (https://www.gnome-look.org/p/1197198/) and capitaine.  
